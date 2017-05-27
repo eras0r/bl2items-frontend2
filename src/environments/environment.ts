@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'http://bl2items-razornet.rhcloud.com/api/'
+  apiUrl: 'http://localhost:3000/api/'
 };
